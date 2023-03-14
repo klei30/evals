@@ -1,6 +1,6 @@
 # Evals
 
-Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
+Evals is a framework for evaluating different OpenAI models and an open-source registry of benchmarks.
 
 You can use Evals to create and run evaluations that:
 - use datasets to generate prompts,
